@@ -9,14 +9,7 @@ Premium motorcycle spare parts store website for **Marjiya Auto Jashore**, locat
 ## 📁 File Structure
 
 ```
-MarjiyaAuto/
-├── index.html          ← Home page
-├── products.html       ← Products catalogue with filter
-├── about.html          ← About the business
-├── contact.html        ← Contact + WhatsApp order form + Map
-├── robots.txt          ← SEO robots file
-├── sitemap.xml         ← XML sitemap for Google
-├── README.md           ← This file
+
 └── assets/
     ├── css/
     │   └── style.css   ← All styles
