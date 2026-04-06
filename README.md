@@ -23,21 +23,6 @@ MarjiyaAuto/
     ├── js/
     │   └── script.js   ← All JavaScript
     └── images/         ← Add product images here
-```
-
----
-
-## 🚀 GitHub Pages Deployment
-
-1. Create a GitHub repo named: `marjiyaauto.github.io`
-   *(or any repo name — see option 2)*
-2. Upload all files maintaining the folder structure above
-3. Go to **Settings → Pages → Source → main branch / root**
-4. Your site will be live at `https://marjiyaauto.github.io`
-
-**Option 2 – Sub-path deployment:**
-- Repo name: `website` → Site: `https://yourusername.github.io/website/`
-- Update all canonical URLs and sitemap URLs accordingly
 
 ---
 
